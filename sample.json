@@ -2,6 +2,10 @@
   "translations": {
     "pl": [
       {
+        "key": "Button",
+        "translation": "I am your Button in PL"
+      },
+      {
         "key": "LABEL1",
         "translation": "I am your first label in PL"
       },
@@ -15,6 +19,10 @@
       }
     ],
     "en": [
+      {
+        "key": "Button",
+        "translation": "I am your Button in EN"
+      },
       {
         "key": "LABEL1",
         "translation": "I am your first label in EN"
